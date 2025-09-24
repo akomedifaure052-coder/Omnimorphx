@@ -43,8 +43,6 @@
 - Modules de projection de matériaux de réparation (sable + liant).  
 - Bras d’intervention avec outillage (impression 3D d’urgence, patchs).
 
-> *Note : toute description d’équipements à caractère offensif ou létal a été volontairement omise dans ce document ; OmniMorphX est présenté ici comme plateforme modulaire à vocation civile et scientifique.*
-
 ## 7) Auto-réparation — OmniDock
 - Bras articulés + caméra d’inspection pour diagnostics.  
 - Impression 3D intégrée pour pièces plastiques de secours.  
